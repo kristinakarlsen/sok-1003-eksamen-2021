@@ -1,0 +1,22 @@
+statistikkvariabel	region	boligtype	år	07230: Prisindeks for brukte boliger,
+Prisindeks for brukte boliger	Hele landet	Boliger i alt	2000	40.3
+Prisindeks for brukte boliger	Hele landet	Boliger i alt	2001	43.0
+Prisindeks for brukte boliger	Hele landet	Boliger i alt	2002	45.2
+Prisindeks for brukte boliger	Hele landet	Boliger i alt	2003	45.9
+Prisindeks for brukte boliger	Hele landet	Boliger i alt	2004	50.6
+Prisindeks for brukte boliger	Hele landet	Boliger i alt	2005	54.8
+Prisindeks for brukte boliger	Hele landet	Boliger i alt	2006	62.3
+Prisindeks for brukte boliger	Hele landet	Boliger i alt	2007	70.1
+Prisindeks for brukte boliger	Hele landet	Boliger i alt	2008	69.4
+Prisindeks for brukte boliger	Hele landet	Boliger i alt	2009	70.7
+Prisindeks for brukte boliger	Hele landet	Boliger i alt	2010	76.5
+Prisindeks for brukte boliger	Hele landet	Boliger i alt	2011	82.6
+Prisindeks for brukte boliger	Hele landet	Boliger i alt	2012	88.2
+Prisindeks for brukte boliger	Hele landet	Boliger i alt	2013	91.8
+Prisindeks for brukte boliger	Hele landet	Boliger i alt	2014	94.3
+Prisindeks for brukte boliger	Hele landet	Boliger i alt	2015	100.0
+Prisindeks for brukte boliger	Hele landet	Boliger i alt	2016	107.0
+Prisindeks for brukte boliger	Hele landet	Boliger i alt	2017	112.4
+Prisindeks for brukte boliger	Hele landet	Boliger i alt	2018	114.0
+Prisindeks for brukte boliger	Hele landet	Boliger i alt	2019	116.8
+Prisindeks for brukte boliger	Hele landet	Boliger i alt	2020	121.4
